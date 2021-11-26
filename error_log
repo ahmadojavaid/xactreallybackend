@@ -1,0 +1,51 @@
+[09-Apr-2021 11:47:52 UTC] PHP Warning:  require(/home/xactrulyjobesk/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/xactrulyjobesk/public_html/artisan on line 18
+[09-Apr-2021 11:47:52 UTC] PHP Fatal error:  require(): Failed opening required '/home/xactrulyjobesk/public_html/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/xactrulyjobesk/public_html/artisan on line 18
+[09-Apr-2021 11:47:58 UTC] PHP Warning:  require(/home/xactrulyjobesk/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/xactrulyjobesk/public_html/artisan on line 18
+[09-Apr-2021 11:47:58 UTC] PHP Fatal error:  require(): Failed opening required '/home/xactrulyjobesk/public_html/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/xactrulyjobesk/public_html/artisan on line 18
+[12-Apr-2021 14:04:15 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[12-Apr-2021 14:06:18 UTC] PHP Warning:  require(/home/xactrulyjobesk/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/xactrulyjobesk/public_html/artisan on line 18
+[12-Apr-2021 14:06:18 UTC] PHP Fatal error:  require(): Failed opening required '/home/xactrulyjobesk/public_html/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/xactrulyjobesk/public_html/artisan on line 18
+[12-Apr-2021 14:06:26 UTC] PHP Warning:  require(/home/xactrulyjobesk/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/xactrulyjobesk/public_html/artisan on line 18
+[12-Apr-2021 14:06:26 UTC] PHP Fatal error:  require(): Failed opening required '/home/xactrulyjobesk/public_html/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/xactrulyjobesk/public_html/artisan on line 18
+[12-Apr-2021 14:06:29 UTC] PHP Warning:  require(/home/xactrulyjobesk/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/xactrulyjobesk/public_html/artisan on line 18
+[12-Apr-2021 14:06:29 UTC] PHP Fatal error:  require(): Failed opening required '/home/xactrulyjobesk/public_html/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/xactrulyjobesk/public_html/artisan on line 18
+[12-Apr-2021 14:06:37 UTC] PHP Warning:  require(/home/xactrulyjobesk/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/xactrulyjobesk/public_html/artisan on line 18
+[12-Apr-2021 14:06:37 UTC] PHP Fatal error:  require(): Failed opening required '/home/xactrulyjobesk/public_html/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/xactrulyjobesk/public_html/artisan on line 18
+[12-Apr-2021 14:10:59 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[12-Apr-2021 14:10:59 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[12-Apr-2021 14:11:11 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[12-Apr-2021 14:11:11 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[12-Apr-2021 14:11:48 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[12-Apr-2021 14:11:48 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[13-Apr-2021 07:53:13 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[13-Apr-2021 07:54:18 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[13-Apr-2021 07:54:45 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[13-Apr-2021 07:54:51 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[13-Apr-2021 07:55:17 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[13-Apr-2021 07:56:57 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[13-Apr-2021 07:57:12 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[13-Apr-2021 07:57:35 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[13-Apr-2021 07:58:03 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[13-Apr-2021 07:58:28 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[13-Apr-2021 07:58:34 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[13-Apr-2021 07:59:04 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[13-Apr-2021 08:03:06 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[13-Apr-2021 08:27:52 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[13-Apr-2021 08:28:22 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[13-Apr-2021 09:14:44 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[13-Apr-2021 09:15:23 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[13-Apr-2021 09:24:10 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[13-Apr-2021 09:25:47 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[28-Apr-2021 08:18:40 UTC] PHP Warning:  Uncaught ErrorException: require(/home/xactrulyjobesk/public_html/vendor/composer/../../app/Helpers/helper_functions.php): failed to open stream: No such file or directory in /home/xactrulyjobesk/public_html/vendor/composer/autoload_real.php:71
+Stack trace:
+#0 /home/xactrulyjobesk/public_html/vendor/composer/autoload_real.php(71): Composer\Util\ErrorHandler::handle(2, 'require(/home/x...', '/home/xactrulyj...', 71, Array)
+#1 /home/xactrulyjobesk/public_html/vendor/composer/autoload_real.php(71): require()
+#2 /home/xactrulyjobesk/public_html/vendor/composer/autoload_real.php(61): composerRequire08c508dd7d4dc3b1e7f23719ea163180('03caa379900217a...', '/home/xactrulyj...')
+#3 /home/xactrulyjobesk/public_html/vendor/autoload.php(7): ComposerAutoloaderInit08c508dd7d4dc3b1e7f23719ea163180::getLoader()
+#4 /home/xactrulyjobesk/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ComposerScripts.php(43): require_once('/home/xactrulyj...')
+#5 phar:///opt/cpanel/composer/bin/composer/src/Composer/EventDispatche in /home/xactrulyjobesk/public_html/vendor/composer/autoload_real.php on line 71
+[28-Apr-2021 08:18:40 UTC] PHP Fatal error:  composerRequire08c508dd7d4dc3b1e7f23719ea163180(): Failed opening required '/home/xactrulyjobesk/public_html/vendor/composer/../../app/Helpers/helper_functions.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/xactrulyjobesk/public_html/vendor/composer/autoload_real.php on line 71
+[28-Apr-2021 08:19:06 UTC] PHP Warning:  require(/home/xactrulyjobesk/public_html/vendor/composer/../../app/Helpers/helper_functions.php): failed to open stream: No such file or directory in /home/xactrulyjobesk/public_html/vendor/composer/autoload_real.php on line 71
+[28-Apr-2021 08:19:06 UTC] PHP Fatal error:  require(): Failed opening required '/home/xactrulyjobesk/public_html/vendor/composer/../../app/Helpers/helper_functions.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/xactrulyjobesk/public_html/vendor/composer/autoload_real.php on line 71
+[28-Apr-2021 08:19:41 UTC] PHP Warning:  require(/home/xactrulyjobesk/public_html/vendor/composer/../../app/Helpers/helper_functions.php): failed to open stream: No such file or directory in /home/xactrulyjobesk/public_html/vendor/composer/autoload_real.php on line 71
+[28-Apr-2021 08:19:41 UTC] PHP Fatal error:  require(): Failed opening required '/home/xactrulyjobesk/public_html/vendor/composer/../../app/Helpers/helper_functions.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/xactrulyjobesk/public_html/vendor/composer/autoload_real.php on line 71
